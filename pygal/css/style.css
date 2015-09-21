@@ -72,7 +72,7 @@
 }
 
 {{ id }}.axis .major.line {
-  stroke: {{ style.foreground }};
+  stroke: {{ style.major_line }};
 }
 
 {{ id }}.axis text.major {

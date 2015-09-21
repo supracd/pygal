@@ -35,6 +35,7 @@ class Style(object):
     foreground = 'rgba(0, 0, 0, .87)'
     foreground_strong = 'rgba(0, 0, 0, 1)'
     foreground_subtle = 'rgba(0, 0, 0, .54)'
+    major_line = 'rgba(100, 10, 10, .54)'
 
     # Monospaced font is highly encouraged
     font_family = (
